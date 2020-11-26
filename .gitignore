@@ -1,3 +1,11 @@
+**/.idea/
+**/*.iml
+**/*.iws
+**/log/
+**/target/
+
+
+
 # Compiled class file
 *.class
 
